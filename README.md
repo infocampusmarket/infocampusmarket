@@ -1,16 +1,37 @@
-## Hi there 👋
+# Welcome to Campus Market on GitHub
 
-<!--
-**infocampusmarket/infocampusmarket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Campus Market Logo](https://campus-market-w1gh.vercel.app/logos/1.png) <!-- Optional: Add your company logo -->
 
-Here are some ideas to get you started:
+**Campus Market** is a university-focused digital marketplace connecting students to buy, sell, and trade goods on campus safely and efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Us
+
+Campus Market was created to simplify student commerce within universities. Our mission is to empower students to exchange goods and services easily while promoting trust, security, and community engagement.
+
+We develop technology solutions that:
+
+- Bridge the gap between students and resources
+- Enable secure, real-time transactions
+- Foster a safe and engaging campus environment
+
+---
+
+## Our Projects
+
+- **Campus Market App:** A mobile-first marketplace for students to list, buy, and sell products on campus.  
+- **ZimPolyStay:** (Example) An off-campus accommodation platform for university students.  
+- **Other Innovations:** We continuously build apps and tools focused on student life and community engagement.
+
+---
+
+## Connect With Us
+
+- GitHub: [https://github.com/<your-organization>](https://github.com/<your-organization>)  
+- Website: [https://campusmarket.example.com](https://campusmarket.example.com)  
+- Email: contact@campusmarket.example.com  
+
+---
+
+*Empowering students, building communities.*
